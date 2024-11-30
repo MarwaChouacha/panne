@@ -1,7 +1,7 @@
 Le Pipeline
 ===========
 
-.. figure:: /Documentation/Images/image.png
+.. figure:: /Documentation/Images/IM1.png
    :width: 100%
    :align: center
    :alt: Alternative text for the image
@@ -9,8 +9,7 @@ Le Pipeline
 
 1.Définition
 ----------
-Notre projet visait à développer une solution à la fois flexible et efficace pour extraire l’information à partir d’une variété de formats de documents. On est concentré sur l’utilisation de l’OCR (Optical Character Recognition) et des modèles à grand langage (LLMs) comme ChatGPT en utilisant les capacités contextuelles avancées des LLM.
-L’innovation de cette méthode réside dans son adaptabilité, capable de traiter de nombreux types de documents sans formation approfondie ni règles spécifiques pour chaque format. Notre objectif était de démontrer une stratégie efficace pour l’extraction de données qui pourrait être un point de référence pour les défis similaires rencontrés dans divers contextes d’affaires. 
+Ce projet vise à développer une application de tableau de bord industriel accompagnée d'un chatbot assistant virtuel. Cette application a pour but de simplifier la prise de décision en milieu industriel en rendant les données complexes facilement accessibles et exploitables grâce à des interfaces intuitives et des fonctionnalités d’assistance vocale.
 
 .. figure:: /Documentation/Images/descr.png
    :width: 100%
@@ -19,27 +18,24 @@ L’innovation de cette méthode réside dans son adaptabilité, capable de trai
    :name: Projet
 
 2.Déférentes possibilités
-----------------------
-Dans cette partie on explore les déférentes possibilités pour extraction  et l'analyse de l'information.
+---------------------------
+Dans cette section, nous explorons trois approches principales pour extraire et analyser des données. Chaque solution est décrite avec ses avantages et inconvénients, en tenant compte des besoins d’un tableau de bord industriel.
 chaque solution avec ces avantages et inconvénients.
 
 2.1.GPT-4 Vision (GPT-V) by OpenAI
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`GPT-V` se distingue par sa capacité à analyser des images et à fournir des informations détaillées basées sur les requêtes des utilisateurs. Ce modèle permet aux utilisateurs de télécharger une image et de poser des questions spécifiques sur son contenu, auxquelles GPT-V répond avec des informations précises et pertinentes.
-Dans le cadre de l’extraction de données à partir d’images, GPT-V offre une solution hautement intuitive et efficace. Le processus est remarquablement simple : vous téléchargez une image sur le modèle, et GPT-V traite cette image pour renvoyer les informations requises dans un format JSON structuré. 
-Ces données peuvent ensuite être facilement stockées et récupérées pour une utilisation ultérieure.
+Cette approche repose sur l'intégration de GPT-4 Vision, un modèle capable d'interpréter des images et de répondre à des requêtes précises. Ce modèle peut être utilisé pour analyser des visuels industriels tels que des schémas, des graphiques ou des photos d'équipement.
 
 **Avantages de l’utilisation de GPT-V :**
 
-- Simplicité et efficacité : Le processus de téléchargement d’une image et de réception de données au format JSON est simple, ce qui minimise la complexité généralement associée à l’extraction de données.
-- Haute efficacité : GPT-V utilise les capacités sophistiquées du modèle GPT-4, assurant une extraction de données précise et fiable à partir d’images.
+Efficacité : Permet une analyse visuelle détaillée, transformant des images en données exploitables.
+Simplicité : Intégration facile grâce à des API bien documentées.
 
 **Inconvénients de l’utilisation de GPT-V :**
 
-- Considérations de coût : L’utilisation de GPT-V peut être coûteuse, en particulier lors du traitement d’images à haute résolution, ce qui peut être un facteur important pour les projets avec des contraintes budgétaires.
-- Préoccupations relatives à l’autonomie des données : Comme GPT-V est un service tiers, il existe des problèmes inhérents à la confidentialité et au contrôle des données. Cette dépendance envers un fournisseur externe peut poser des défis pour les projets où la sécurité et l’autonomie des données sont primordiales.
-- Latence et limites de débit de l’API : Il peut y avoir des retards importants dans la réception des informations de l’API, et des limites de débit peuvent être imposées au compte, affectant l’évolutivité et la réactivité du système.
+Coût : Modèle onéreux pour un traitement intensif.
+Confidentialité : Les données doivent être envoyées à un service externe, ce qui peut poser des problèmes de sécurité.
 
 **Installation:**
 
@@ -53,7 +49,7 @@ Ces données peuvent ensuite être facilement stockées et récupérées pour un
    import requests
    from openai import OpenAI
    # OpenAI API Key
-   api_key = "Insert-Your-OpenAi-API-Key-Here"
+   api_key = "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"
    client = OpenAI(api_key = api_key)
 
 Pour commencer à utiliser GPT-V, vous devez d’abord créer un compte sur le site Web `OpenAI <https://openai.com>`_. Dans ce cas, vous devez d’abord vous connecter à lOpenAI, puis générer des `API keys <https://platform.openai.com/account/api-keys>`_ pour vos API_keys. Il est important de noter que l’accès GPT-V nécessite au moins un paiement effectué sur votre compte. 
@@ -149,13 +145,13 @@ Faisons une explaication pour mieux comprendre :
 **Example:**
 Maintenant, tout ce qui est nécessaire est de passer une image avec une requête pour effectuer l’extraction de texte. On utilise une  carte d’embarquement de Singapore Airlines. 
 
-.. figure:: /Documentation/Images/Example.png
+.. figure:: /Documentation/Images/IM1.png
    :width: 100%
    :align: center
    :alt: Alternative text for the image
    :name: Signaphore_Pass
    
-.. image:: Documentation/Images/Example.png
+.. image:: Documentation/Images/IM2.png
    :height: 100px
    :width: 200 px
    :scale: 50 %
