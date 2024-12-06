@@ -17,6 +17,7 @@ nous avons développé une interface Streamlit pour un tableau de bord industrie
 
 En plus de cela, un chatbot intelligent et intuitif sert d’assistant virtuel , offrant des réponses instantanées et pertinentes pour guider les opérateurs dans leurs tâches quotidiennes. Il est conçu pour interagir de manière fluide et naturelle, offrant une assistance immédiate basée sur des données fiables. Chaque fonctionnalité a été pensée pour fournir une expérience utilisateur conviviale et hautement efficace, facilitant ainsi l’intégration harmonieuse de la technologie dans un environnement industriel complexe.
 
+
 figure:: /Documentation/Images/im2.png
    :width: 100%
    :align: center
