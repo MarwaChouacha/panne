@@ -5,7 +5,7 @@
    :width: 100%
    :align: center
    :alt: Alternative text for the image
-   :name: Pipeline
+   :name: Pipelinee
 
 
 
