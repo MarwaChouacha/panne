@@ -4,6 +4,7 @@ figure:: /Documentation/Images/tableau.png
    :width: 100%
    :align: center
    :alt: Alternative text for the image
+   
    :name: Tableau
 2.Explication
 ----------
