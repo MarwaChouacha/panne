@@ -29,6 +29,7 @@ figure:: /Documentation/Images/im4.png
 Pour alimenter le tableau de bord, la collecte de données repose principalement sur des fichiers PDF contenant des informations essentielles sur les thématiques de sécurité industrielle et de gestion des pannes. Ces documents regroupent des protocoles de sécurité, des historiques d’incidents, des procédures de maintenance, ainsi que des recommandations techniques.
 
 Les données extraites de ces fichiers sont traitées et structurées pour être intégrées dans la plateforme. Cela permet non seulement de fournir des insights précis aux utilisateurs, mais aussi d’alimenter le chatbot pour offrir une assistance basée sur des connaissances fiables et contextualisées. Cette méthode garantit une exploitation optimale des documents existants tout en enrichissant le système avec des informations cruciales pour la prise de décision et la résolution rapide des problèmes.
+
 ## Étape 1 : Développement du Chatbot
 --------------------------------------
 La deuxième étape du projet consiste à développer un chatbot intelligent en utilisant la plateforme Botpress. Ce chatbot joue un rôle clé en fournissant une assistance virtuelle interactive aux utilisateurs, notamment pour répondre aux questions liées à la sécurité et à la gestion des pannes, ainsi que pour guider les opérateurs dans les procédures techniques.
