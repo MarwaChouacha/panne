@@ -3,7 +3,7 @@ Ce projet vise à développer une application de tableau de bord industriel acco
 figure:: /Documentation/Images/im1.png
    :width: 100%
    :align: center
-   :alt: Alternative text for the image
+   :alt: Alternative text for the images
 
 :name: image1
 
