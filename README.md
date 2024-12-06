@@ -1,6 +1,6 @@
 # tableau_de_bord_industriel Documentation
 
-Welcome to the documentation repository for eau_de_bord_industriel tool. 
+Welcome to the documentation repository for tableau_de_bord_industriel tool. 
 
 ## Getting Started with Documentation Development
 
