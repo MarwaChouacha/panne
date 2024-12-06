@@ -21,4 +21,4 @@ figure:: /Documentation/Images/im2.png
    :align: center
    :alt: Alternative text for the image
 
-:name: im2
+:name: img2
