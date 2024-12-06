@@ -1,7 +1,6 @@
  Gestion des données industrielles
 
 ===========
-.. figure:: /Documentation/Images/IM3.png
    :width: 100%
    :align: center
    :alt: Alternative text for the image
