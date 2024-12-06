@@ -11,7 +11,7 @@ Le chatbot joue un rôle central en permettant aux utilisateurs d’interagir na
 "Affiche-moi les alertes de maintenance pour la ligne 3."
 L'intégration du chatbot repose sur GPT-4 Turbo, qui garantit des réponses rapides et précises adaptées au contexte industriel.
 
-Cette documentation pourrait être publiée sur Read the Docs pour assurer une présentation claire et professionnelle de ton projet. Tu peux également utiliser des hooks pour générer automatiquement la documentation à partir des commits sur GitHub
+Cette documentation pourrait être publiée sur Read the Docs afin d'assurer une présentation claire et professionnelle de ton projet. Tu peux également utiliser des hooks pour générer automatiquement la documentation à partir des commits sur GitHub
 Chatbot pour l'assistance industrielle
 figure:: /Documentation/Images/ocp.png
    :width: 100%
