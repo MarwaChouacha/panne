@@ -7,7 +7,7 @@ Intégration avec un Chatbot
    :name: chatboot
 Le chatbot joue un rôle central en permettant aux utilisateurs d’interagir naturellement avec les données du tableau de bord. Il peut répondre à des questions comme :
 
-"Quel est le taux de production aujourd’hui ?"
+"Quel est le taux de production aujourd’hui?"
 "Affiche-moi les alertes de maintenance pour la ligne 3."
 L'intégration du chatbot repose sur GPT-4 Turbo, qui garantit des réponses rapides et précises adaptées au contexte industriel.
 
