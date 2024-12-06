@@ -8,6 +8,7 @@ figure:: /Documentation/Images/im1.png
 :name: image1
 
 
+
 2.Explication
 ----------
 nous avons développé une interface Streamlit pour un tableau de bord industriel innovant, qui intègre plusieurs fonctionnalités cruciales et sophistiquées. L’application offre une vue dynamique et interactive des départements et de la formation du personnel, permettant ainsi une gestion optimale et bien structurée des équipes. Les utilisateurs peuvent facilement consulter les indices de performances, obtenant ainsi des insights précieux sur l’efficacité des opérations et des équipements.
