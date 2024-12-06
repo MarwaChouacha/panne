@@ -1,6 +1,6 @@
 Intégration avec un Chatbot
 ======================================
-.. figure:: /Documentation/Images/chatbot.png
+.. figure:: /Documentation/Images/chatbot.jpg
    :width: 100%
    :align: center
    :alt: Alternative text for the image

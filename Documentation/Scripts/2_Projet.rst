@@ -35,6 +35,7 @@ La deuxième étape du projet consiste à développer un chatbot intelligent en 
 
 Grâce à Botpress, le chatbot est conçu pour :
 
+
 Comprendre les intentions des utilisateurs via des modèles NLP (Natural Language Processing).
 Fournir des réponses pertinentes en s’appuyant sur les données extraites des fichiers PDF et textes intégrés dans la plateforme.
 Proposer une expérience conversationnelle fluide, adaptée aux besoins des utilisateurs industriels.

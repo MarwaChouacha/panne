@@ -30,4 +30,4 @@ Les membres :
 .. |linkedin_nisrine| image:: ../Images/LinkedIn_Logo.jpeg
     :width: 16
     :height: 16
-    :target: https://www.linkedin.com/in/linkedin_nisrine
+    :target: https://www.linkedin.com/in/linkedin_nisrinedrief
