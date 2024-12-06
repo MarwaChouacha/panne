@@ -1,5 +1,10 @@
 Intégration avec un Chatbot
 ======================================
+.. figure:: /Documentation/Images/chatbot.png
+   :width: 100%
+   :align: center
+   :alt: Alternative text for the image
+   :name: chatboot
 Le chatbot joue un rôle central en permettant aux utilisateurs d’interagir naturellement avec les données du tableau de bord. Il peut répondre à des questions comme :
 
 "Quel est le taux de production aujourd’hui ?"
@@ -8,8 +13,12 @@ L'intégration du chatbot repose sur GPT-4 Turbo, qui garantit des réponses rap
 
 Cette documentation pourrait être publiée sur Read the Docs pour assurer une présentation claire et professionnelle de ton projet. Tu peux également utiliser des hooks pour générer automatiquement la documentation à partir des commits sur GitHub
 Chatbot pour l'assistance industrielle
-markdown
-Copier le code
+figure:: /Documentation/Images/ocp.png
+   :width: 100%
+   :align: center
+   :alt: Alternative text for the image
+
+:name: ocp
 # Chatbot pour l'assistance industrielle
 
 Cette page détaille comment le chatbot est intégré dans le tableau de bord industriel, ses fonctionnalités principales, et les technologies sous-jacentes utilisées pour offrir une expérience utilisateur fluide et interactive.
