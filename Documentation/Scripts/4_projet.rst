@@ -11,6 +11,7 @@ Cette documentation pourrait être publiée sur Read the Docs afin d'assurer une
 Chatbot pour l'assistance industrielle
 
 
+
 # Chatbot pour l'assistance industrielle
 
 Cette page détaille comment le chatbot est intégré dans le tableau de bord industriel, ses fonctionnalités principales, et les technologies sous-jacentes utilisées pour offrir une expérience utilisateur fluide et interactive.
