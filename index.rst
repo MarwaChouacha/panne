@@ -1,11 +1,7 @@
 Bienvenue à  Tableau_de_bord_industriel documentation!
 ====================================
 
-.. figure:: Documentation/Images/ocp.jpg
-   :width: 80%
-   :align: center
-   :alt: Alternative text for the image
-   :name: OCP
+
 
 
 
