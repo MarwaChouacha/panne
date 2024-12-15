@@ -1,15 +1,10 @@
 Description
-============
-1.Définition----------
+=========
+
+1.Définition
+----------
+
 Ce projet vise à développer une application de tableau de bord industriel accompagnée d'un chatbot assistant virtuel. Cette application a pour but de simplifier la prise de décision en milieu industriel en rendant les données complexes facilement accessibles et exploitables grâce à des interfaces intuitives et des fonctionnalités d’assistance vocale.
-
-.. figure:: /Documentation/Images\Screenshots/im1.png
-   :width: 100%
-   :align: center
-   :alt: Alternative text for the images
-
-:name: im1
-
 
 
 
