@@ -22,7 +22,7 @@ En plus de cela, un chatbot intelligent et intuitif sert d’assistant virtuel ,
 
 
 
-figure:: /Documentation/Images/im2.png
+figure:: /Documentation/Photos/im2.png
    :width: 100%
    :align: center
    :alt: Alternative text for the image
