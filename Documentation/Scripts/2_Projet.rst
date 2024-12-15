@@ -3,7 +3,7 @@
 
 1.Gestion des données industrielles
 -----------------------------------
-# Gestion des données dans le tableau de bord industriel
+
 
 
 Cette page explique comment les données industrielles sont collectées, traitées et affichées dans le tableau de bord. Elle couvre les étapes clés de l’intégration des sources de données, le traitement des données, et leur visualisation dans une interface utilisateur interactive.
